@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi 🐰! Welcome yanJuicy
 
 <a href="https://velog.io/@leehanju408" target="_blank"><img src="http://img.shields.io/badge/Velog-20c997?style=for-the-badge"/></a>
-
+</a> <a href = "https://yangorithm.tistory.com//"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
 
 <!-- <div align=center> -->
   
