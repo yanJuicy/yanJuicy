@@ -38,6 +38,7 @@
 [스마트맵](https://github.com/LikeLionCBNU/smartmap-likelion) | 2020.10 ~ 2020.10 | 백화점 지도를 3D 길찾기로 보여주는 사이트, 충북대학교 멋쟁사자처럼 해커톤
 [폴보스 피싱예방](https://github.com/yanJuicy/POLVOSS) | 2020.05 ~ 2020.10 | 보이스피싱 + 스미싱을 예방하는 안드로이드 앱, 충북지방경찰청 협력 프로젝트
 [Red Light](https://github.com/yanJuicy/POLVOSS) | 2019.09 ~ 2019.12 | Unity + Kinect 게임 프로젝트, 충북대학교 HCI 프로젝트
+[MakaoTalk](https://github.com/yanJuicy/MakaoTalk) | 2018.12 ~ 2018.12 | JavaFX로 구현한 채팅 프로그램
 
 
 
