@@ -23,7 +23,7 @@
 ### Web Projects
 프로젝트명 | 기간 |  설명
 --|---|---
-[Hanbange](https://github.com/Challenge-Hanbang-E) | 2022.12.30 ~ 진행중 | 한방에 검색하고 한방에 주문하는 이커머스 사이트
+[Hanbange](https://github.com/Challenge-Hanbang-E) | 2022.12.30 ~ 2023.02.10 | 한방에 검색하고 한방에 주문하는 이커머스 사이트
 [jeju-iiin](https://github.com/yanJuicy/jeju-iiin) | 2022.12.23 ~ 2022.12.29 |  재주상회 클론 프로젝트
 [10wonmoa](https://github.com/yanJuicy/Team-10jo-10wonmoa-BE) | 2022.07.15 ~ 2022.08.16 | 쉬운 가계부 서비스 10원모아
 [marbox](https://github.com/yanJuicy/BE-02-MarBox) | 2022.06.15 ~ 2022.07.18 | CGV 영화 예매 페이지 API 클론 프로젝트
