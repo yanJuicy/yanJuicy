@@ -1,10 +1,3 @@
-<h1> 🌱 Lee Han Ju </h1>
-
-- 안녕하세요! 백엔드 개발자를 꿈꾸는 이한주 입니다.
-
-- 기록과 문서화, 지식 나눔을 좋아합니다.
-
-
 ## 🌐 **Link**
 <a href="https://velog.io/@leehanju408" target="_blank"><img src="http://img.shields.io/badge/Velog-20c997?style=for-the-badge"/></a>
 </a> <a href = "https://yangorithm.tistory.com//"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
